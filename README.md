@@ -1,5 +1,5 @@
 
-# Minimal Reproducibility Pack (JHEP submission)
+# Minimal Reproducibility
 
 This pack contains reference scripts and a notebook to reproduce the **benchmark figures** referenced in the manuscript.
 
